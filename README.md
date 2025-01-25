@@ -27,6 +27,13 @@ All Tiles have a unique colour number combination.
 Each tile has a wall which can not be passed through.
 Some tiles have portals, that can be used for one turn to move to any other portal tile.
 
+## Other Info
+Hidden players must move two, they cant stay still or move 1.
+hunters must move one, they cant stay still.
+
+
+
+
 
 
 # Resources
@@ -36,3 +43,8 @@ Some tiles have portals, that can be used for one turn to move to any other port
  - Players Markers
 
 
+
+# Ideas
+ - Anytime hidden player lands on 2, they place down a powerup for the hunts anywhere on the board
+ - Anytime the hidden player lands on the center, the can rotate 3 tiles of their choices, regardless of who is on it.
+ - 
