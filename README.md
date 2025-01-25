@@ -6,14 +6,14 @@ An AI-powered hidden movement tabletop tile game.
 3 hunter players hunt 1 hidden player.
 
 ### Hidden Player Instructions
-Hidden player logs their moves to the AI by sending the AI the tile they move through.
+Bubbles player logs their moves to the AI by sending the AI the tile they move through.
 Hidden player can move two tiles per turn, and must send the tiles they move through. EG
 (B1, G2) to move from Blue 1 to Green 2 or (G3 Y3) to move from Green 3 to Yellow 3.
-Hidden players must read out the clues to the hunts, provided by the AI 
+Hidden players must read out the clues to the hunters, provided by the AI.
 
 ### Hunter Instructions
 Hunters move one tile per turn.
-Hunters can chose to rotate their tile rather then move.
+Hunters can chose to rotate their tile rather then move. Rotation happens at end of all hunters turn.
 
 
 ### Win State 
@@ -37,15 +37,14 @@ The hidden player setup up the board.
 The White/Black square is in the middle,
 4 Portals are setup, not touching the white square.
 
-The hunts set the location of the gems.
-
-
-
 
 
 ## Other Info
 Hidden players must move two, they cant stay still or move 1.
 hunters must move one, they cant stay still.
+Bubbles must land on wine to collect it.
+Bubbles can not collect wine on the first turn (but you can start on it).
+
 
 
 # Resources
