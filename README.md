@@ -19,8 +19,9 @@ The game is won by the hunters when they find the hidden player.
 The game is won by the hidden player collects 2 of the 3 gems.
 
 ### Bonus Actions
-At any turn, hidden player can leave an object behind on any tile they have previously been to. 
-Hunters can collect this object, allowing them to move 2 tiles next turn.
+ - Anytime hidden player lands on 2, they place down a powerup for the hunts anywhere on the board. Hunters can collect this object, allowing them to move 2 tiles next turn.
+ - Anytime the hidden player lands on the center, they can rotate 3 tiles of their choices, regardless of who is on it. (You simply pass through start, you must stop)
+
 
 ## Board & Setup.
 
@@ -54,5 +55,3 @@ hunters must move one, they cant stay still.
 
 
 # Ideas
- - Anytime hidden player lands on 2, they place down a powerup for the hunts anywhere on the board
- - Anytime the hidden player lands on the center, they can rotate 3 tiles of their choices, regardless of who is on it. (You simply pass through start, you must stop)
