@@ -2,49 +2,56 @@
 An AI-powered hidden movement tabletop tile game.
 2 - 4 players
 
+Thursty for more wine, Bubbles the monkey is float through space, running havok in Pandora's intergalatic glaxey wide vinyard harvesting of clouds of space-wine.
+Pandora has called animal control on this cheeky monkey, and they take their job very seriously.
+
 # Instructions
-3 hunter players hunt 1 hidden player.
+3 animal control (1-3 players) hunt Bubbles (1 player).
 
-### Hidden Player Instructions
-Bubbles player logs their moves to the AI by sending the AI the tile they move through.
-Hidden player can move two tiles per turn, and must send the tiles they move through. EG
-(B1, G2) to move from Blue 1 to Green 2 or (G3 Y3) to move from Green 3 to Yellow 3.
-Hidden players must read out the clues to the hunters, provided by the AI.
+### Bubbles Instructions
+Bubbles does not have a visible piece on the board, but instead logs their moves to the AI by sending the AI the tile they move through.
+Bubbles can move two tiles per turn, and must send the tiles they move through. 
+ EG (B1, G2) to move from Blue 1 to Green 2 or (G3 Y3) to move from Green 3 to Yellow 3.
+Bubbles must read out the clues to the hunts, provided by the AI.
+Bubbles aims to collect 2 of the 4 wine on the board to win.
+After Bubbles turn, he may rotate one tile.
 
-### Hunter Instructions
-Hunters move one tile per turn.
-Hunters can chose to rotate their tile rather then move. Rotation happens at end of all hunters turn.
-
+### Animal Control Instructions
+Animal Control move one tile per turn.
+After all Animal Control have moved, they may collectively rotate one tile. 
 
 ### Win State 
 The game is won by the hunters when they find the hidden player.
 The game is won by the hidden player collects 2 of the 3 gems.
 
 ### Special Actions
-**Center Tile:**  - Anytime the hidden player lands on the center, they can rotate 5 tiles of their choices, regardless of who is on it. (You simply pass through start, you must stop)
-
+**Pandora's Box:**  - Anytime Bubbles on the center, he can rotate 5 tiles of their choices, regardless of who or what is on it. (To active this power you must end on this tile)
 
 
 ## Board & Setup.
 
 ### Tiles
 All Tiles have a unique colour number combination.
-Each tile has a wall which can not be passed through.
+Each tile has a wall which can not be passed through by either player.
 Some tiles have portals, that can be used for one turn to move to any other portal tile.
+Some tiles have wine, to be collected by the Monkey
 
 ### Setup
 The hidden player setup up the board.
 The White/Black square is in the middle,
 4 Portals are setup, not touching the white square.
 
+The hunts set the location of the gems.
+
+
+
 
 
 ## Other Info
-Hidden players must move two, they cant stay still or move 1.
-hunters must move one, they cant stay still.
-Bubbles must land on wine to collect it.
+Hidden players must move two, they cant stay still or move 1. 
+hunters must move one, they cant stay still. 
+Bubbles must land on wine to collect it. 
 Bubbles can not collect wine on the first turn (but you can start on it).
-
 
 
 # Resources
