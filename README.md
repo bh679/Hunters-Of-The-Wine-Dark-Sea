@@ -27,8 +27,9 @@ Some tiles have portals, that can be used for one turn to move to any other port
 
 
 # Resources
-[Hunters-Of-The-Wine-Dark-Sea Custom GPT](https://chatgpt.com/g/g-67936437ba74819180e95011d9a3006a-hunters-of-the-wine-dark-sea)
-Tiles
-Players Markers
+ - [Hunters-Of-The-Wine-Dark-Sea Custom GPT](https://chatgpt.com/g/g-67936437ba74819180e95011d9a3006a-hunters-of-the-wine-dark-sea)
+ - [Prompt.ChatGPT](https://github.com/bh679/Hunters-Of-The-Wine-Dark-Sea/blob/main/prompt.ChatGPT)
+ - Tiles
+ - Players Markers
 
 
