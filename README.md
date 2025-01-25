@@ -16,7 +16,7 @@ Hunts move one tile per turn.
 
 ### Win State 
 The game is won by the hunters when they find the hidden player.
-The game is won by the hidden player if not found after 5 turns.
+The game is won by the hidden player collects 2 of the 3 gems
 
 ### Bonus Actions
 At any turn, hidden player can leave an object behind on any tile they have previously been to. 
@@ -27,13 +27,20 @@ All Tiles have a unique colour number combination.
 Each tile has a wall which can not be passed through.
 Some tiles have portals, that can be used for one turn to move to any other portal tile.
 
+## Board Setup.
+The hidden player setup up the board.
+The White/Black square is in the middle,
+4 Portals are setup, not touching the white square.
+
+The hunts set the location of the gems.
+
+
+
+
+
 ## Other Info
 Hidden players must move two, they cant stay still or move 1.
 hunters must move one, they cant stay still.
-
-
-
-
 
 
 # Resources
