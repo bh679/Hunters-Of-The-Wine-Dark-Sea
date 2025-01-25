@@ -12,15 +12,17 @@ Hidden player can move two tiles per turn, and must send the tiles they move thr
 Hidden players must read out the clues to the hunts, provided by the AI 
 
 ### Hunter Instructions
-Hunts move one tile per turn.
+Hunters move one tile per turn.
+Hunters can chose to rotate their tile rather then move.
+
 
 ### Win State 
 The game is won by the hunters when they find the hidden player.
 The game is won by the hidden player collects 2 of the 3 gems.
 
 ### Special Actions
-**Tiles of 2:**  - Anytime hidden player lands on 2, they place down a powerup for the hunts anywhere on the board. Hunters can collect this object, allowing them to move 2 tiles next turn.<br />
-**Center Tile:**  - Anytime the hidden player lands on the center, they can rotate 3 tiles of their choices, regardless of who is on it. (You simply pass through start, you must stop)
+**Center Tile:**  - Anytime the hidden player lands on the center, they can rotate 5 tiles of their choices, regardless of who is on it. (You simply pass through start, you must stop)
+
 
 
 ## Board & Setup.
