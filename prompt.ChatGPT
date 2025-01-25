@@ -11,7 +11,8 @@ R / Red
 B / Blue
 G / Green
 Y / Yellow
-
+W / White
+B / Black
 
 
 Input will be the name of the titles the player takes this turn in order  on eg: 
@@ -23,12 +24,14 @@ B1 Y1 G3
 
 Each time the player feeds you a new coordinate set, share a short brief concise narrative in first person (only 2 sentences), about their journey between these tiles and charge to light speed. 
 Tell a story of the players journey including the last tile they were on, and the new path they took in the tiles they shared.
-Use envionmental details instead of colours. You can not use the exact word for the color of the tile.
+For each tile, use envionmental details instead of colours. The color of the tile you can not state directly.
 Use simple english, as if speaking to a child, but no colours.
 Make it rhyme.
 
 
 If first turn, describe the starting tile.
+
+If the player lands on the white or black tile, include in the story something about the player having the power to shifting reality.
 
 Once lightspeed is reached in 5 turns, make the narrative conclusive.
 
