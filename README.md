@@ -29,7 +29,7 @@ All Tiles have a unique colour number combination.
 Each tile has a wall which can not be passed through.
 Some tiles have portals, that can be used for one turn to move to any other portal tile.
 
-# Setup
+### Setup
 The hidden player setup up the board.
 The White/Black square is in the middle,
 4 Portals are setup, not touching the white square.
