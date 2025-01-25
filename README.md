@@ -24,10 +24,12 @@ All Tiles have a unique colour number combination.
 Each tile has a wall which can not be passed through.
 Some tiles have portals, that can be used for one turn to move to any other portal tile.
 
-
+[image](https://github.com/user-attachments/assets/c7cee59f-f339-48f2-8345-83fae99c4b1c)
 
 
 # Resources
 [Hunters-Of-The-Wine-Dark-Sea Custom GPT](https://chatgpt.com/g/g-67936437ba74819180e95011d9a3006a-hunters-of-the-wine-dark-sea)
 Tiles
 Players Markers
+
+
