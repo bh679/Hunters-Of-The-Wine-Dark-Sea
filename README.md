@@ -5,20 +5,20 @@ An AI-powered hidden movement tabletop tile game.
 # Instructions
 3 hunter players hunt 1 hidden player.
 
-## Hidden Player Instructions
+### Hidden Player Instructions
 Hidden player logs their moves to the AI by sending the AI the tile they move through.
 Hidden player can move two tiles per turn, and must send the tiles they move through. EG
 (B1, G2) to move from Blue 1 to Green 2 or (G3 Y3) to move from Green 3 to Yellow 3.
 Hidden players must read out the clues to the hunts, provided by the AI 
 
-## Hunter Instructions
+### Hunter Instructions
 Hunts move one tile per turn.
 
-## Win State 
+### Win State 
 The game is won by the hunters when they find the hidden player.
 The game is won by the hidden player if not found after 5 turns.
 
-## Bonus Actions
+### Bonus Actions
 At any turn, hidden player can leave an object behind on any tile they have previously been to. 
 Hunters can collect this object, allowing them to move 2 tiles next turn.
 
