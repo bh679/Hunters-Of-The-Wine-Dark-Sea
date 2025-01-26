@@ -7,26 +7,41 @@ Thursty for more wine, Bubbles the monkey is float through space, running havok 
 Pandora has called animal control on this cheeky monkey, and they take their job very seriously.
 
 # Instructions
-3 animal control (1-3 players) hunt Bubbles (1 player).
+
+### Win State 
+1-3 players play as team animal control to hunt Bubbles the Monkey (1 player).
+Bubbles goal is to collect 2 of the 4 wine bubbles on the board.
 
 ### Bubbles Instructions
+Bubbles goal is to collect 2 of the 4 wine bubbles on the board.
 Bubbles does not have a visible piece on the board, but instead logs their moves to the AI by sending the AI the tile they move through.
-Bubbles can move two tiles per turn, and must send the tiles they move through. 
- EG (B1, G2) to move from Blue 1 to Green 2 or (G3 Y3) to move from Green 3 to Yellow 3.
-Bubbles must read out the clues to the hunts, provided by the AI.
-Bubbles aims to collect 2 of the 4 wine on the board to win.
-After Bubbles turn, he may rotate one tile.
+EG (B1, G2) to move from Blue 1 to Green 2 or (G3 Y3) to move from Green 3 to Yellow 3.
+Bubbles must move two tiles per turn.
+
+The Ai will provide cludes to the Animal Control
+Bubbles must read out the clues to the Animal Control, provided by the AI.
+
+#### Bubbles Special Actions
+**Pandora's Box'ed Wine:**  - Anytime Bubbles on the center, he can rotate 5 tiles of their choices, regardless of who or what is on it. (To active this power you must end on this tile)
+Bubbles can play one card per turn, before they move.
+ - **Back in the Box**: Returns Bubbles to Pandroas Box'ed Wine. They cannot move anymore this turn. They do get the special ability from Padoras Box'ed Wine)
+ - **Monkey Burness**: Burns a total of 3 cards in the Animal Controls hand. (Can be 3 in one, or one each, or any combination totalling max 3)
+
+Bubbles Trap Cards
+ - **Slip Skip**: Stops a player mid move. Can be played on enemies turn, as they take a move to prevent the move. Cant not be used to prevent cards being played (including extra move).
 
 ### Animal Control Instructions
+Animal Control's shared goal is to land on the Monkey.
 Animal Control move one tile per turn.
 After all Animal Control have moved, they may collectively rotate one tile. 
 
-### Win State 
-The game is won by the hunters when they find the hidden player.
-The game is won by the hidden player collects 2 of the 3 gems.
+
+
+### Extra Info
+Bubbles can not land on or pass through a tile occupide by Animal Control. 
+
 
 ### Special Actions
-**Pandora's Box:**  - Anytime Bubbles on the center, he can rotate 5 tiles of their choices, regardless of who or what is on it. (To active this power you must end on this tile)
 
 
 ## Board & Setup.
