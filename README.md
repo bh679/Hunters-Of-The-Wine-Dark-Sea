@@ -23,11 +23,11 @@ Bubbles must read out the clues to the Animal Control, provided by the AI.
 
 #### Bubbles Special Actions
 **Pandora's Box'ed Wine:**  - Anytime Bubbles on the center, he can rotate 5 tiles of their choices, regardless of who or what is on it. (To active this power you must end on this tile)
-Bubbles can play one Monkey Card per turn, before they move.
+Bubbles can play one [Monkey Card](https://github.com/bh679/Hunters-Of-The-Wine-Dark-Sea/blob/main/Cards) per turn, before they move.
  - **Back in the Box**: Returns Bubbles to Pandroas Box'ed Wine. They cannot move anymore this turn. They do get the special ability from Padoras Box'ed Wine)
  - **Monkey Burness**: Burns a total of 3 cards in the Animal Controls hand. (Can be 3 in one, or one each, or any combination totalling max 3)
 
-Bubbles Trap Cards
+[Bubbles Trap Cards](https://github.com/bh679/Hunters-Of-The-Wine-Dark-Sea/blob/main/Cards)
  - **Slip Skip**: Stops a player mid move. Can be played on enemies turn, as they take a move to prevent the move. Cant not be used to prevent cards being played (including extra move).
 
 ### Animal Control Instructions
@@ -37,7 +37,7 @@ There are always 3 Animal Control characters on the board, no matter the number 
 Each Animal Control Character on the board has 3 IAC cards.
 Animal Control move one tile per turn.
 
-#### IAC Cards
+#### [IAC Cards](https://github.com/bh679/Hunters-Of-The-Wine-Dark-Sea/blob/main/Cards)
  - Extra Move: Used after turn, gives Animal Control one extra move this turn.
  - Turn Tile: Used after turn, can turn any single tile to face any direction.
  - Reveal Tile: Bubbles must reveal if they are on the Target tile.
