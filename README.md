@@ -9,8 +9,8 @@ Pandora has called animal control on this cheeky monkey, and they take their job
 # Instructions
 
 ### Win State 
-1-3 players play as team animal control to hunt Bubbles the Monkey (1 player).
 Bubbles goal is to collect 2 of the 4 wine bubbles on the board.
+Animal Control's shared goal is to land on the Monkey.
 
 ### Bubbles Instructions
 Bubbles goal is to collect 2 of the 4 wine bubbles on the board.
@@ -23,7 +23,7 @@ Bubbles must read out the clues to the Animal Control, provided by the AI.
 
 #### Bubbles Special Actions
 **Pandora's Box'ed Wine:**  - Anytime Bubbles on the center, he can rotate 5 tiles of their choices, regardless of who or what is on it. (To active this power you must end on this tile)
-Bubbles can play one card per turn, before they move.
+Bubbles can play one Monkey Card per turn, before they move.
  - **Back in the Box**: Returns Bubbles to Pandroas Box'ed Wine. They cannot move anymore this turn. They do get the special ability from Padoras Box'ed Wine)
  - **Monkey Burness**: Burns a total of 3 cards in the Animal Controls hand. (Can be 3 in one, or one each, or any combination totalling max 3)
 
@@ -32,8 +32,12 @@ Bubbles Trap Cards
 
 ### Animal Control Instructions
 Animal Control's shared goal is to land on the Monkey.
+The team of 3 Animal Control is played by 1-3 players. 
+There are always 3 Animal Control characters on the board, no matter the number players.
+Each Animal Control Character on the board has 3 IAC cards.
+
 Animal Control move one tile per turn.
-After all Animal Control have moved, they may collectively rotate one tile. 
+After all Animal Control have moved, they may each play 1 card. 
 
 
 
