@@ -35,17 +35,24 @@ Animal Control's shared goal is to land on the Monkey.
 The team of 3 Animal Control is played by 1-3 players. 
 There are always 3 Animal Control characters on the board, no matter the number players.
 Each Animal Control Character on the board has 3 IAC cards.
-
 Animal Control move one tile per turn.
-After all Animal Control have moved, they may each play 1 card. 
 
+#### IAC Cards
+ - Extra Move: Used after turn, gives Animal Control one extra move this turn.
+ - Turn Tile: Used after turn, can turn any single tile to face any direction.
+ - Reveal Tile: Bubbles must reveal if they are on the Target tile.
+ - Check Colour: Bubbles must reveal if they are on Target Colour.
+ - Half Monkey Move: Monkey can only move 1 square for the next turn.
 
+### Starting the Game
+Bubbles picks where they start as first turn.
+Bubbles can not collect wine or use portal on first time.
 
 ### Extra Info
-Bubbles can not land on or pass through a tile occupide by Animal Control. 
-
-
-### Special Actions
+Bubbles can not land on or pass through a tile occupide by Animal Control.
+Cross of walls is not allowed.
+Bubbles can decide the setup of the board at the start of each game. All tiles must start with at least 2 access points. Pandoras Box'ed Wine must have start with at least 4 access points.
+Staying still, or skipping a turn is not an option for anyone (Unless Slip Skipped).
 
 
 ## Board & Setup.
