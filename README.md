@@ -1,5 +1,6 @@
 # Hunters-Of-The-Wine-Dark-Sea
-An AI-powered hidden movement tabletop tile game.
+Bubbles the Monkey is trying to steal wine from Pandora’s Space Vineyard, while dodging Intergalactic Animal Control.
+AI-powered hidden movement tabletop hex-tile game.
 2 - 4 players
 
 Thursty for more wine, Bubbles the monkey is float through space, running havok in Pandora's intergalatic glaxey wide vinyard harvesting of clouds of space-wine.
