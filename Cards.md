@@ -17,7 +17,7 @@ Cant not be used to prevent cards being played (including extra move).
 Used after turn, gives Animal Control one extra move this turn.
 
 ### Turn Tile 
-Used after turn, can turn any single tile to face any direction.
+Used after turn, can turn any single tile to face any direction. <br />
 <img width="256" alt="Image" src="https://github.com/user-attachments/assets/0a9baffd-b9f2-4452-b930-3697709319d2" />
 
 ### Reveal Tile
