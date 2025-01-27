@@ -7,7 +7,6 @@ Bubbles starts off with all cards. They do not need to be hidden.<br />
 <br />
 <br />
 
-
 ### Back in the Box
 <p>
   <img width="128" alt="Image" src="https://github.com/user-attachments/assets/7f2f2509-5b36-4cf5-a2bb-d050ad99abb7" align="left" style="margin-right: 10px;" />
@@ -18,9 +17,6 @@ Returns Bubbles to Pandroas Box'ed Wine. They cannot move anymore this turn. The
 <br />
 <br />
 <br />
-
-
-
 
 ### Monkey Burness 
 <p>
@@ -62,8 +58,10 @@ Used after turn, gives Animal Control one extra move this turn. <br />
 </p>
 <br />
 <br />
+<br />
 
 
+--
 ### Turn Tile 
 <p>
 <img width="128" alt="Image" src="https://github.com/user-attachments/assets/0a9baffd-b9f2-4452-b930-3697709319d2"  align="left" style="margin-right: 10px;" />
@@ -72,8 +70,10 @@ Used after turn, can turn any single tile to face any direction. <br />
 </p>
 <br />
 <br />
+<br />
 
 
+--
 ### Reveal Tile
 <p>
 <img width="128" alt="Image" src="https://github.com/user-attachments/assets/9978e55f-82eb-46b2-9bb7-fde95062b41e"   align="left" style="margin-right: 10px;" />
@@ -82,8 +82,10 @@ Bubbles must reveal if they are on the Target tile.<br />
 </p>
 <br />
 <br />
+<br />
 
 
+--
 ### Check Colour
 <p>
 <img width="128" alt="Image" src="https://github.com/user-attachments/assets/962280ab-309a-4b64-924a-d7a6f3cd743e"  align="left" style="margin-right: 10px;" />
@@ -92,8 +94,10 @@ Bubbles must reveal if they are on Target Colour. <br />
 </p>
 <br />
 <br />
+<br />
 
 
+--
 ### Half Monkey Move
 <p>
 <img width="128" alt="Image"src="https://github.com/user-attachments/assets/8383b1e5-6c87-49f9-acfc-75fa18233ffb" align="left" style="margin-right: 10px;" />
