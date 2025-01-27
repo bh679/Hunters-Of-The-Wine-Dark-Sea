@@ -74,10 +74,10 @@ Positions of portals and bubbles are not flexible. <br />
 
 
 ## Other Info
-Bubbles must move two, they cant stay still or move 1. 
-Animal Control must move one, they cant stay still. 
-Bubbles can land on wine, or pass over it to collect it. 
-Bubbles can not collect wine on the first turn (but you can start on it).
+Bubbles must move two, they cant stay still or move 1.  <br />
+Animal Control must move one, they cant stay still.  <br />
+Bubbles can land on wine, or pass over it to collect it.  <br />
+Bubbles can not collect wine on the first turn (but you can start on it). <br />
 
 
 # Resources
