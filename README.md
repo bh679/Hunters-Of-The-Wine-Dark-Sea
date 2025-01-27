@@ -61,8 +61,8 @@ Some tiles have portals, that can be used for one turn to move to any other port
 Some tiles have wine, to be collected by the Monkey
 
 ### Setup
-<img width="512" alt="Image" src="https://github.com/user-attachments/assets/6e5ab4fb-c616-467a-9a23-eec59a99afe5" />
-
+<p>
+  <img width="256" alt="Image" src="https://github.com/user-attachments/assets/6e5ab4fb-c616-467a-9a23-eec59a99afe5"  align="left" style="margin-right: 10px;" />
 Bubbles setups up the board to their liking at the start of each game (colours, and walls). <br />
 All tiles must start with at least 2 open paths.  <br />
 Pandoras Boxed Wine is in the middle. <br />
@@ -70,6 +70,7 @@ Pandoras Boxed Wine is in the middle. <br />
 4 Portals are setup, not touching the white square. <br />
 4 Wine Bubbles are each next to a portal, on the edge of the map. <br />
 Positions of portals and bubbles are not flexible. <br />
+</p>
 
 
 ## Other Info
