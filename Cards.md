@@ -46,34 +46,60 @@ Cant not be used to prevent cards being played (including extra move).<br />
 
 
 # IAC Cards
+<p>
+<img width="128" alt="Image" src="https://github.com/user-attachments/assets/65a8f302-0c71-491d-8781-14b8bfe00fd1" align="left" style="margin-right: 10px;" />
 Animal Control can use one card each turn.<br />
-<img width="128" alt="Image" src="https://github.com/user-attachments/assets/65a8f302-0c71-491d-8781-14b8bfe00fd1" />
+</p>
+<br />
+<br />
 
 
 ### Extra Move 
+<p>
+<img width="128" alt="Image" src="https://github.com/user-attachments/assets/b69530c9-30e5-48c1-b1fd-8dee72dff14b"  align="left" style="margin-right: 10px;" />
 Used after turn, gives Animal Control one extra move this turn. <br />
 2 per deck <br />
-<img width="256" alt="Image" src="https://github.com/user-attachments/assets/b69530c9-30e5-48c1-b1fd-8dee72dff14b" />
+</p>
+<br />
+<br />
+
 
 ### Turn Tile 
+<p>
+<img width="128" alt="Image" src="https://github.com/user-attachments/assets/0a9baffd-b9f2-4452-b930-3697709319d2"  align="left" style="margin-right: 10px;" />
 Used after turn, can turn any single tile to face any direction. <br />
 4 per deck <br />
-<img width="256" alt="Image" src="https://github.com/user-attachments/assets/0a9baffd-b9f2-4452-b930-3697709319d2" /> <br />
+</p>
+<br />
+<br />
 
 
 ### Reveal Tile
+<p>
+<img width="128" alt="Image" src="https://github.com/user-attachments/assets/9978e55f-82eb-46b2-9bb7-fde95062b41e"   align="left" style="margin-right: 10px;" />
 Bubbles must reveal if they are on the Target tile.<br />
 2 per deck <br />
-<img width="256" alt="Image" src="https://github.com/user-attachments/assets/9978e55f-82eb-46b2-9bb7-fde95062b41e" /> <br />
+</p>
+<br />
+<br />
 
 
 ### Check Colour
+<p>
+<img width="128" alt="Image" src="https://github.com/user-attachments/assets/962280ab-309a-4b64-924a-d7a6f3cd743e"  align="left" style="margin-right: 10px;" />
 Bubbles must reveal if they are on Target Colour. <br />
 2 per deck <br />
-<img width="256" alt="Image" src="https://github.com/user-attachments/assets/962280ab-309a-4b64-924a-d7a6f3cd743e" />
+</p>
+<br />
+<br />
+
 
 ### Half Monkey Move
+<p>
+<img width="128" alt="Image"src="https://github.com/user-attachments/assets/8383b1e5-6c87-49f9-acfc-75fa18233ffb" align="left" style="margin-right: 10px;" />
 Monkey can only move 1 square for the next turn. <br />
 2 per deck <br />
-<img width="256" alt="Image" src="https://github.com/user-attachments/assets/8383b1e5-6c87-49f9-acfc-75fa18233ffb" />
+</p>
+<br />
+<br />
 
