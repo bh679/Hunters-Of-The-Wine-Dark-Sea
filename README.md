@@ -29,7 +29,7 @@ Animal Control's shared goal is to land on the Monkey.
 
 #### Bubbles has Special Actions
  - **Pandora's Box'ed Wine:**  - Anytime Bubbles on the center, he can rotate 5 tiles of their choices, regardless of who or what is on it. (To active this power you must end on this tile)
- - **Monkey Cards.** Bubbles can play one [Monkey Card](https://github.com/bh679/Hunters-Of-The-Wine-Dark-Sea/blob/main/Cards) per turn, before they move.
+ - **Monkey Cards.** Bubbles can play one [Monkey Card](https://github.com/bh679/Hunters-Of-The-Wine-Dark-Sea/blob/main/Cards.md) per turn, before they move.
 
 ### Animal Control msut catch The Monkey. 
 <p>
@@ -37,7 +37,7 @@ Animal Control's shared goal is to land on the Monkey.
 Animal Control's shared goal is to land on the Monkey.<br />
 The team of 3 Animal Control is played by 1-3 players. <br />
 There are always 3 Animal Control characters on the board, no matter the number players.<br />
-Each Animal Control Character on the board has 3 [IAC Cards](https://github.com/bh679/Hunters-Of-The-Wine-Dark-Sea/blob/main/Cards).<br />
+Each Animal Control Character on the board has 3 <a href="https://github.com/bh679/Hunters-Of-The-Wine-Dark-Sea/blob/main/Cards.md">IAC Cards</a>.<br />
 Animal Control move one tile per turn.
 </p>
 
