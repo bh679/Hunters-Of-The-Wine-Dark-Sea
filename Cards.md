@@ -18,7 +18,7 @@ Used after turn, gives Animal Control one extra move this turn.
 
 ### Turn Tile 
 Used after turn, can turn any single tile to face any direction.
-![Image](https://github.com/user-attachments/assets/759e1705-9023-468b-b142-467e1c233cd6)
+<img width="256" alt="Image" src="https://github.com/user-attachments/assets/0a9baffd-b9f2-4452-b930-3697709319d2" />
 
 ### Reveal Tile
 Bubbles must reveal if they are on the Target tile.<br />
