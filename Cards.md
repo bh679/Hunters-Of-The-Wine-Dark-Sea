@@ -24,7 +24,7 @@ Cant not be used to prevent cards being played (including extra move).<br />
 
 
 # IAC Cards
-Animal Control can use one card each turn.
+Animal Control can use one card each turn.<br />
 <img width="128" alt="Image" src="https://github.com/user-attachments/assets/65a8f302-0c71-491d-8781-14b8bfe00fd1" />
 
 
