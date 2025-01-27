@@ -64,12 +64,11 @@ Some tiles have portals, that can be used for one turn to move to any other port
 Some tiles have wine, to be collected by the Monkey
 
 ### Setup
-The hidden player setup up the board.
-The White/Black square is in the middle,
+Bubbles setups up the board.
+Pandoras Boxed Wine is in the middle,
+6 tiles touch Pandroa's Boxed Wine, with at least 4 open pathways.
 4 Portals are setup, not touching the white square.
-
-The hunts set the location of the gems.
-
+4 Wine Bubbles are each next to a portal
 
 
 
