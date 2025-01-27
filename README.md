@@ -37,17 +37,9 @@ Animal Control's shared goal is to land on the Monkey.
 Animal Control's shared goal is to land on the Monkey.<br />
 The team of 3 Animal Control is played by 1-3 players. <br />
 There are always 3 Animal Control characters on the board, no matter the number players.<br />
-Each Animal Control Character on the board has 3 IAC cards.<br />
+Each Animal Control Character on the board has 3 [IAC Cards](https://github.com/bh679/Hunters-Of-The-Wine-Dark-Sea/blob/main/Cards).<br />
 Animal Control move one tile per turn.
 </p>
-
-
-#### [IAC Cards](https://github.com/bh679/Hunters-Of-The-Wine-Dark-Sea/blob/main/Cards)
- - Extra Move: Used after turn, gives Animal Control one extra move this turn.
- - Turn Tile: Used after turn, can turn any single tile to face any direction.
- - Reveal Tile: Bubbles must reveal if they are on the Target tile.
- - Check Colour: Bubbles must reveal if they are on Target Colour.
- - Half Monkey Move: Monkey can only move 1 square for the next turn.
 
 ### Starting the Game
 Bubbles picks where they start as first turn.
