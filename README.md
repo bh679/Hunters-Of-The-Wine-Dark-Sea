@@ -88,7 +88,3 @@ Bubbles can not collect wine on the first turn (but you can start on it). <br />
  - [Cards](https://github.com/bh679/Hunters-Of-The-Wine-Dark-Sea/blob/main/Cards)
  - SoundTrack: [No Wine Soundtrack](https://music.youtube.com/watch?v=8USMplddwsM&list=RDAMPLPLhv84P3RxpQfY1ZQ6VyDeyj1KowbMrGpI), [First Wine Soundtrack](https://music.youtube.com/watch?v=4pyzcDf_cfo&list=PLhv84P3RxpQfjekUIRBGsYJkudG_yQGy4)
 
-
-
-
-# Ideas
