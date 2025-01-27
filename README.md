@@ -61,7 +61,7 @@ Some tiles have portals, that can be used for one turn to move to any other port
 Some tiles have wine, to be collected by the Monkey
 
 ### Setup
-![Image](https://github.com/user-attachments/assets/53d0eadd-c32a-48c6-a3a5-fbf907c57e0e)
+<img width="512" alt="Image" src="https://github.com/user-attachments/assets/6e5ab4fb-c616-467a-9a23-eec59a99afe5" />
 
 Bubbles setups up the board to his liking (colours, and walls).
 Pandoras Boxed Wine is in the middle.
