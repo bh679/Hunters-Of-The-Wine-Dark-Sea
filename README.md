@@ -46,10 +46,10 @@ Bubbles picks where they start as first turn.
 Bubbles can not collect wine or use portal on first time.
 
 ### Extra Info
-Bubbles can not land on or pass through a tile occupide by Animal Control.
-Cross of walls is not allowed.
-Bubbles can decide the setup of the board at the start of each game. All tiles must start with at least 2 access points. Pandoras Box'ed Wine must have start with at least 4 access points.
-Staying still, or skipping a turn is not an option for anyone (Unless Slip Skipped).
+Bubbles can not land on or pass through a tile occupide by Animal Control. <br />
+Cross of walls is not allowed. <br />
+Bubbles can decide the setup of the board at the start of each game.  <br />
+Staying still, or skipping a turn is not an option for anyone (Unless Slip Skipped). <br />
 
 
 # Bubbles setups up the board.
@@ -63,12 +63,13 @@ Some tiles have wine, to be collected by the Monkey
 ### Setup
 <img width="512" alt="Image" src="https://github.com/user-attachments/assets/6e5ab4fb-c616-467a-9a23-eec59a99afe5" />
 
-Bubbles setups up the board to his liking (colours, and walls).
+Bubbles setups up the board to their liking at the start of each game (colours, and walls).
+All tiles must start with at least 2 open paths. 
 Pandoras Boxed Wine is in the middle.
-6 tiles touch Pandroa's Boxed Wine, with at least 4 open pathways.
-Positions of portals and bubbles are not flexible.
+6 tiles touch Pandroa's Boxed Wine, with at least 4 open paths.
 4 Portals are setup, not touching the white square.
 4 Wine Bubbles are each next to a portal, on the edge of the map.
+Positions of portals and bubbles are not flexible.
 
 
 ## Other Info
