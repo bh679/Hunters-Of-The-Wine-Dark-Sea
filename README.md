@@ -3,6 +3,13 @@ Bubbles the Monkey is trying to steal wine from Pandora’s Space Vineyard, whil
 AI-powered hidden movement tabletop hex-tile game.
 2 - 4 players
 
+
+![Image](https://github.com/user-attachments/assets/ae11ec5e-c752-4cb4-9438-fa0130a8d585)
+
+
+
+
+
 Thirsty for more wine, Bubbles the monkey is float through space, running havoc in Pandora's intergalactic galaxy wide vineyard harvesting of clouds of space-wine.
 Pandora has called animal control on this cheeky monkey, and they take their job very seriously.
 
@@ -64,6 +71,8 @@ Some tiles have portals, that can be used for one turn to move to any other port
 Some tiles have wine, to be collected by the Monkey
 
 ### Setup
+![Image](https://github.com/user-attachments/assets/53d0eadd-c32a-48c6-a3a5-fbf907c57e0e)
+
 Bubbles setups up the board.
 Pandoras Boxed Wine is in the middle,
 6 tiles touch Pandroa's Boxed Wine, with at least 4 open pathways.
