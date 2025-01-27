@@ -17,7 +17,7 @@ Used after turn, can turn any single tile to face any direction.
 ![Image](https://github.com/user-attachments/assets/759e1705-9023-468b-b142-467e1c233cd6)
 
 ### Reveal Tile
-Bubbles must reveal if they are on the Target tile.
+Bubbles must reveal if they are on the Target tile.<br />
 <img width="505" alt="Image" src="https://github.com/user-attachments/assets/9978e55f-82eb-46b2-9bb7-fde95062b41e" />
 
 ### Check Colour
