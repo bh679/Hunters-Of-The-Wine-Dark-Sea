@@ -63,13 +63,13 @@ Some tiles have wine, to be collected by the Monkey
 ### Setup
 <img width="512" alt="Image" src="https://github.com/user-attachments/assets/6e5ab4fb-c616-467a-9a23-eec59a99afe5" />
 
-Bubbles setups up the board to their liking at the start of each game (colours, and walls).
-All tiles must start with at least 2 open paths. 
-Pandoras Boxed Wine is in the middle.
-6 tiles touch Pandroa's Boxed Wine, with at least 4 open paths.
-4 Portals are setup, not touching the white square.
-4 Wine Bubbles are each next to a portal, on the edge of the map.
-Positions of portals and bubbles are not flexible.
+Bubbles setups up the board to their liking at the start of each game (colours, and walls). <br />
+All tiles must start with at least 2 open paths.  <br />
+Pandoras Boxed Wine is in the middle. <br />
+6 tiles touch Pandroa's Boxed Wine, with at least 4 open paths. <br />
+4 Portals are setup, not touching the white square. <br />
+4 Wine Bubbles are each next to a portal, on the edge of the map. <br />
+Positions of portals and bubbles are not flexible. <br />
 
 
 ## Other Info
