@@ -52,7 +52,7 @@ Bubbles can decide the setup of the board at the start of each game. All tiles m
 Staying still, or skipping a turn is not an option for anyone (Unless Slip Skipped).
 
 
-## Board & Setup.
+# Board & Setup.
 
 ### Tiles
 All Tiles have a unique colour number combination.
