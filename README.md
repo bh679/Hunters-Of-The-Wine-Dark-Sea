@@ -13,14 +13,19 @@ Bubbles goal is to collect 2 of the 4 wine bubbles on the board.
 Animal Control's shared goal is to land on the Monkey.
 
 ### Bubbles Collects the Wine to Win
-<img width="128" alt="Image" src="https://github.com/user-attachments/assets/0fdc5dc1-bd52-45c0-b91e-c202881a672b" />
-Bubbles goal is to collect 2 of the 4 wine bubbles on the board.
-Bubbles does not have a visible piece on the board, but instead logs their moves to the AI by sending the AI the tile they move through.
-EG (B1, G2) to move from Blue 1 to Green 2 or (G3 Y3) to move from Green 3 to Yellow 3.
-Bubbles must move two tiles per turn.
+<p>
+  <img width="128" alt="Image" src="https://github.com/user-attachments/assets/e9f45fdb-8661-40b5-b5a4-bc692acee9d9" align="left" style="margin-right: 10px;" />
+  Bubbles' goal is to collect 2 of the 4 wine bubbles on the board.  
+  Bubbles does not have a visible piece on the board but instead logs their moves to the AI by sending the AI the tile they move through.  
+  Example: (B1, G2) to move from Blue 1 to Green 2 or (G3, Y3) to move from Green 3 to Yellow 3.  
+  Bubbles must move two tiles per turn.
+ 
+  The Ai will provide cludes to the Animal Control.
+  Bubbles must read out the clues to the Animal Control, provided by the AI.
+</p>
 
-The Ai will provide cludes to the Animal Control
-Bubbles must read out the clues to the Animal Control, provided by the AI.
+
+
 
 #### Bubbles has Special Actions
  - **Pandora's Box'ed Wine:**  - Anytime Bubbles on the center, he can rotate 5 tiles of their choices, regardless of who or what is on it. (To active this power you must end on this tile)
