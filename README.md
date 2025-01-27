@@ -13,6 +13,7 @@ Bubbles goal is to collect 2 of the 4 wine bubbles on the board.
 Animal Control's shared goal is to land on the Monkey.
 
 ### Bubbles Collects the Wine to Win
+<img width="128" alt="Image" src="https://github.com/user-attachments/assets/0fdc5dc1-bd52-45c0-b91e-c202881a672b" />
 Bubbles goal is to collect 2 of the 4 wine bubbles on the board.
 Bubbles does not have a visible piece on the board, but instead logs their moves to the AI by sending the AI the tile they move through.
 EG (B1, G2) to move from Blue 1 to Green 2 or (G3 Y3) to move from Green 3 to Yellow 3.
@@ -22,13 +23,8 @@ The Ai will provide cludes to the Animal Control
 Bubbles must read out the clues to the Animal Control, provided by the AI.
 
 #### Bubbles has Special Actions
-**Pandora's Box'ed Wine:**  - Anytime Bubbles on the center, he can rotate 5 tiles of their choices, regardless of who or what is on it. (To active this power you must end on this tile)
-Bubbles can play one [Monkey Card](https://github.com/bh679/Hunters-Of-The-Wine-Dark-Sea/blob/main/Cards) per turn, before they move.
- - **Back in the Box**: Returns Bubbles to Pandroas Box'ed Wine. They cannot move anymore this turn. They do get the special ability from Padoras Box'ed Wine)
- - **Monkey Burness**: Burns a total of 3 cards in the Animal Controls hand. (Can be 3 in one, or one each, or any combination totalling max 3)
-
-[Bubbles Trap Cards](https://github.com/bh679/Hunters-Of-The-Wine-Dark-Sea/blob/main/Cards)
- - **Slip Skip**: Stops a player mid move. Can be played on enemies turn, as they take a move to prevent the move. Cant not be used to prevent cards being played (including extra move).
+ - **Pandora's Box'ed Wine:**  - Anytime Bubbles on the center, he can rotate 5 tiles of their choices, regardless of who or what is on it. (To active this power you must end on this tile)
+ - **Monkey Cards.** Bubbles can play one [Monkey Card](https://github.com/bh679/Hunters-Of-The-Wine-Dark-Sea/blob/main/Cards) per turn, before they move.
 
 ### Animal Control msut catch The Monkey. 
 Animal Control's shared goal is to land on the Monkey.
