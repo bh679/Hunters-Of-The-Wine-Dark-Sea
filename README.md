@@ -8,7 +8,7 @@ Pandora has called animal control on this cheeky monkey, and they take their job
 <br />
 <img width="512" alt="Image" src="https://github.com/user-attachments/assets/0368417d-7a1c-4ef7-8c24-28505b96e0ea" /><br />
 
-# Instructions: Collect the Wine, or Catch The Monkey to Win. 
+# Collect the Wine, or Catch The Monkey to Win. 
 Bubbles goal is to collect 2 of the 4 wine bubbles on the board.
 Animal Control's shared goal is to land on the Monkey.
 
@@ -52,7 +52,7 @@ Bubbles can decide the setup of the board at the start of each game. All tiles m
 Staying still, or skipping a turn is not an option for anyone (Unless Slip Skipped).
 
 
-# Board & Setup.
+# Bubbles setups up the board.
 
 ### Tiles
 All Tiles have a unique colour number combination.
@@ -63,19 +63,18 @@ Some tiles have wine, to be collected by the Monkey
 ### Setup
 ![Image](https://github.com/user-attachments/assets/53d0eadd-c32a-48c6-a3a5-fbf907c57e0e)
 
-Bubbles setups up the board.
-Pandoras Boxed Wine is in the middle,
+Bubbles setups up the board to his liking (colours, and walls).
+Pandoras Boxed Wine is in the middle.
 6 tiles touch Pandroa's Boxed Wine, with at least 4 open pathways.
+Positions of portals and bubbles are not flexible.
 4 Portals are setup, not touching the white square.
-4 Wine Bubbles are each next to a portal
-
-
+4 Wine Bubbles are each next to a portal, on the edge of the map.
 
 
 ## Other Info
-Hidden players must move two, they cant stay still or move 1. 
-hunters must move one, they cant stay still. 
-Bubbles must land on wine to collect it. 
+Bubbles must move two, they cant stay still or move 1. 
+Animal Control must move one, they cant stay still. 
+Bubbles can land on wine, or pass over it to collect it. 
 Bubbles can not collect wine on the first turn (but you can start on it).
 
 
