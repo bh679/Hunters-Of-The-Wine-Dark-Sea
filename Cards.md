@@ -1,8 +1,9 @@
 # Monkey Cards
 <p>
   <img width="128" alt="Image" src="https://github.com/user-attachments/assets/a40f4ce1-fdad-4fd9-b2bd-18bdb2f2266d" align="left" style="margin-right: 10px;" />
-Bubbles can play one Monkey Card per turn, before they move.<br />
 Bubbles starts off with all cards. They do not need to be hidden.<br />
+Bubbles can play one Monkey Card per turn, before they move.<br />
+  Once used, Bubbles gets no more cards. <br />
 </p>
 <br />
 <br />
@@ -44,7 +45,9 @@ Cant not be used to prevent cards being played (including extra move).<br />
 # IAC Cards
 <p>
 <img width="128" alt="Image" src="https://github.com/user-attachments/assets/65a8f302-0c71-491d-8781-14b8bfe00fd1" align="left" style="margin-right: 10px;" />
-Animal Control can use one card each turn.<br />
+Animal control start with 3 cards each.<br />
+  Animal Control can use one card each turn.<br />
+  Once used, Animal Control gets no more cards. <br />
 </p>
 <br />
 <br />
