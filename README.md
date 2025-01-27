@@ -33,7 +33,7 @@ Animal Control's shared goal is to land on the Monkey.
 
 ### Animal Control msut catch The Monkey. 
 <p>
-  <img width="128" alt="Image" src="https://github.com/user-attachments/assets/1a2ad1f0-43cf-46b2-8102-f95892a2b75b" align="left" style="margin-right: 10px;" />
+  <img width="128" alt="Image" src="https://github.com/user-attachments/assets/0ddc90b5-7901-4578-83f2-50fd34f2b783" align="left" style="margin-right: 10px;" />
 Animal Control's shared goal is to land on the Monkey.<br />
 The team of 3 Animal Control is played by 1-3 players. <br />
 There are always 3 Animal Control characters on the board, no matter the number players.<br />
