@@ -8,9 +8,7 @@ Pandora has called animal control on this cheeky monkey, and they take their job
 <br />
 <img width="512" alt="Image" src="https://github.com/user-attachments/assets/0368417d-7a1c-4ef7-8c24-28505b96e0ea" /><br />
 
-# Instructions
-
-### Collect the Wine to Win, or Catch The Monkey. 
+# Instructions: Collect the Wine to Win, or Catch The Monkey. 
 Bubbles goal is to collect 2 of the 4 wine bubbles on the board.
 Animal Control's shared goal is to land on the Monkey.
 
