@@ -1,18 +1,30 @@
 # Monkey Cards
 Bubbles can play one Monkey Card per turn, before they move.
+Bubbles starts off with all cards. They do not need to be hidden.
+<img width="128" alt="Image" src="https://github.com/user-attachments/assets/a40f4ce1-fdad-4fd9-b2bd-18bdb2f2266d" />
+
 ### Back in the Box
 Returns Bubbles to Pandroas Box'ed Wine. They cannot move anymore this turn. They do get the special ability from Padoras Box'ed Wine)
+1 per deck
+<img width="256" alt="Image" src="https://github.com/user-attachments/assets/7f2f2509-5b36-4cf5-a2bb-d050ad99abb7" />
 
 ### Monkey Burness 
+1 per deck
 Burns a total of 3 cards in the Animal Controls hand. (Can be 3 in one, or one each, or any combination totalling max 3)
+<img width="256" alt="Image" src="https://github.com/user-attachments/assets/6b09d39e-18ec-421d-ad8a-695b40a6c2d2" />
+
 
 ### Slip Skip
+1 per deck
 These can be played in repsonse to an Animal Control movement on their turn. 
 Stops a player mid move. Can be played on enemies turn, as they take a move to prevent the move. 
 Cant not be used to prevent cards being played (including extra move).
+<img width="256" alt="Image" src="https://github.com/user-attachments/assets/5d24b2f0-f8f9-40c5-9b70-2bec0811d3c7" />
+
 
 
 # IAC Cards
+Animal Control can use one card each turn.
 <img width="128" alt="Image" src="https://github.com/user-attachments/assets/65a8f302-0c71-491d-8781-14b8bfe00fd1" />
 
 
