@@ -17,7 +17,7 @@ Animal Control's shared goal is to land on the Monkey.
   <img width="128" alt="Image" src="https://github.com/user-attachments/assets/e9f45fdb-8661-40b5-b5a4-bc692acee9d9" align="left" style="margin-right: 10px;" />
   Bubbles' goal is to collect 2 of the 4 wine bubbles on the board.  <br />
   Bubbles does not have a visible piece on the board but instead logs their moves to the AI by sending the AI the tile they move through.  <br />
-  Example: (B1, G2) to move from Blue 1 to Green 2 or (G3, Y3) to move from Green 3 to Yellow 3.  <br />
+  Example: `B1, G2` to move from Blue 1 to Green 2 or `G3, Y3` to move from Green 3 to Yellow 3.  <br />
   Bubbles must move two tiles per turn.
 </p>
  
